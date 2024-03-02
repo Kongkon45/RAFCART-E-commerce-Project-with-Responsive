@@ -1,0 +1,75 @@
+[
+    {
+        "id" : 1,
+        "title" : "PELAGIA Lounge",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product2.jpg",
+        "desc" : "Outdoor Modular Lounge",
+        "price" : 100,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 2,
+        "title" : "AVERY bed",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product3.jpg",
+        "desc" : "Queen Bed",
+        "price" : 150,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 3,
+        "title" : "white bed",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product4.jpg",
+        "desc" : "king Bed",
+        "price" : 400,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 4,
+        "title" : "PELAGIA Lounge",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product10.jpg",
+        "desc" : "Outdoor Modular Lounge",
+        "price" : 250,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 5,
+        "title" : "MADELINE SOFA",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product1.jpg",
+        "desc" : "Fabric Sofa Bed",
+        "price" : 120,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 6,
+        "title" : "GUYER Chair",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product9.jpg",
+        "desc" : "Queen Headboard",
+        "price" : 80,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 7,
+        "title" : "Black ARCHIE",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product12.jpg",
+        "desc" : "Black Bedside",
+        "price" : 200,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 8,
+        "title" : "BIANCO Chair",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product8.jpg",
+        "desc" : "Fabric Accent Chair",
+        "price" : 150,
+        "rating" : 5
+        
+    }
+    
+]

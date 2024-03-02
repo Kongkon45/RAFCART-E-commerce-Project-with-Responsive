@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "title" : "MADELINE SOFA",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product1.jpg",
+        "desc" : "Fabric Sofa Bed",
+        "price" : 120,
+        "rating" : 5
+        
+    },
+    {
+        "id" : 2,
+        "title" : "GUYER Chair",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product9.jpg",
+        "desc" : "Queen Headboard",
+        "price" : 80,
+        "rating" : 5
+        
+    },
+    {
+        "id":3,
+        "title" : "Black ARCHIE",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product12.jpg",
+        "desc" : "Black Bedside",
+        "price" : 200,
+        "rating" : 5
+        
+    },
+    {
+        "id":4,
+        "title" : "BIANCO Chair",
+        "image" : "https://themes.programmingkit.xyz/rafcart/assets/images/product8.jpg",
+        "desc" : "Fabric Accent Chair",
+        "price" : 150,
+        "rating" : 5
+        
+    }
+]
